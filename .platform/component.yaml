@@ -8,7 +8,7 @@ metadata:
     backstage.io/techdocs-ref: dir:..
     github.com/workflows: publish.yml,remove.yml
     kong-manager/service-name: app.spec-demo-vtg-kong.80
-    kong-manager/instance: /kong-manager/cluster-vtg-kong-demo
+    kong-manager/instance: cluster-vtg-kong-demo
 spec:
   type: devops
   lifecycle: experimental
