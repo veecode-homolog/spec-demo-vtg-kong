@@ -3,7 +3,7 @@ kind: API
 metadata:
   name: spec-demo-vtg-kong
   title: spec-demo-vtg-kong
-  publishedAt: "2024-11-19 18:18:29"
+  publishedAt: "2024-11-19 18:20:45"
   description: Consulte CEPs de todo o Brasil.
   tags:
     - teste
@@ -27,7 +27,7 @@ spec:
         description: Find out more about Swagger
         url: http://swagger.io
     servers:
-        - url: https://vkpr.platform.vee.codes/spec-demo-vtg-kong
+        - url: https://cluster-vtg-kong-demo.vkpr.platform.vee.codes/spec-demo-vtg-kong
     tags:
         - name: Address
           description: Getting zip-code informations
