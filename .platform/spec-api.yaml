@@ -3,7 +3,7 @@ kind: API
 metadata:
   name: spec-demo-vtg-kong
   title: spec-demo-vtg-kong
-  publishedAt: "2024-11-19 16:22:04"
+  publishedAt: "2024-11-19 18:18:29"
   description: Consulte CEPs de todo o Brasil.
   tags:
     - teste
