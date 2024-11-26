@@ -9,7 +9,7 @@ metadata:
     github.com/workflows: publish.yml,remove.yml
     kong-manager/service-name: app.spec-demo-vtg-kong.80
     kong-manager/instance: cluster-vtg-kong-demo
-    kong-manager/spec : openapi-swagger.yaml
+    kong-manager/spec: openapi-swagger.yaml
 spec:
   type: devops
   lifecycle: experimental
