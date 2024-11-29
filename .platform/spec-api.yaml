@@ -3,7 +3,7 @@ kind: API
 metadata:
   name: spec-demo-vtg-kong
   title: spec-demo-vtg-kong
-  publishedAt: "2024-11-19 18:20:45"
+  publishedAt: "2024-11-29 13:25:21"
   description: Consulte CEPs de todo o Brasil.
   tags:
     - teste
@@ -35,7 +35,7 @@ spec:
             description: Find out more
             url: http://swagger.io
     paths:
-        '/ws/{zip-code}/json':
+        /ws/{zip-code}/json:
             get:
                 tags:
                     - Address
